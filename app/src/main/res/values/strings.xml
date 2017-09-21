@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Material Fennec</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="URL_is_illegal">URL_is_illegal</string>
+</resources>
