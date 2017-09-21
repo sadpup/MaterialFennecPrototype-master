@@ -28,6 +28,7 @@ public class FFwebView extends WebView{
 //        false
         getSettings().setSupportZoom(false);
         getSettings().setBuiltInZoomControls(false);
+        getSettings().setJavaScriptEnabled(true);
     }
 
     private WebViewClient mWebViewClient = new WebViewClient(){//TODO
